@@ -14,3 +14,10 @@ The year is 2023. COVID is no longer a threat, and humanity has seized upon the 
 
 Click [here](FutureThon_ProjectBubble.pdf) to view a presentation detailing the idea my team came up with.
 
+## Second Place, National Round - Small Business School Challenge
+
+The Small Business School Challenge was an intense 48 hours of utilizing a design thinking and problem solving approach to understand and solve the challenges faced by the client assigned to us.
+
+As a part of this challenge, my team and I built a growth strategy roadmap for our client, who like many other small businesses had been at a disadvantage due to COVID-19 and the associated economic fallout. We were able to secure funding for our client to implement the strategies devised for her by securing first within our University and then placing second in the Nationals round of this challenge, competing with 9 other top business schools across the United States.
+
+Click [here](SmallBusinessSchoolChallenge.pdf) to view a presentation detailing the work done by my team for the client. 
